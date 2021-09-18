@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "8UwYS/Fz/R0wgO3JWjEZe97IEHx7ii2bHWNdit1WW8C+EzWht6rHEmeKIXM33YMcWMJiwRs6C8k6a0l09B2PXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\38344\\source\\repos\\BookManagementProject6\\Booksify\\Booksify.Utility\\Booksify.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.11\\microsoft.aspnetcore.cryptography.internal.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.11\\microsoft.aspnetcore.cryptography.keyderivation.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\3.1.11\\microsoft.aspnetcore.identity.ui.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.11\\microsoft.extensions.caching.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.11\\microsoft.extensions.configuration.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.11\\microsoft.extensions.configuration.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.11\\microsoft.extensions.configuration.binder.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.11\\microsoft.extensions.dependencyinjection.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.11\\microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.11\\microsoft.extensions.fileproviders.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.11\\microsoft.extensions.fileproviders.embedded.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.11\\microsoft.extensions.identity.core.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.11\\microsoft.extensions.identity.stores.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.logging\\3.1.11\\microsoft.extensions.logging.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.11\\microsoft.extensions.logging.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.options\\3.1.11\\microsoft.extensions.options.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512",
+    "C:\\Users\\38344\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
